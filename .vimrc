@@ -5,4 +5,8 @@ syntax on
 set incsearch
 set hlsearch
 
-set ts=4
+" use spaces whenever tab key is pressed:
+set expandtab
+
+" set number of spaces for tab
+set tabstop=4
